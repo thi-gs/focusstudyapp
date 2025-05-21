@@ -1,0 +1,65 @@
+# Diretórios do sistema e IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Configuração local do Android SDK
+local.properties
+
+# Diretórios de build
+/build/
+*/build/
+
+# Cache do Gradle
+.gradle/
+**/build/
+
+# Arquivos de log e backups
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Arquivos de compilação Kotlin/Java
+*.class
+*.dex
+*.apk
+*.ap_
+
+# NDK
+.externalNativeBuild/
+
+# Capturas de tela feitas com Android Studio
+captures/
+
+# Arquivos gerados automaticamente
+.gen/
+out/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Configurações específicas de execução
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/misc.xml
+
+# Arquivos de banco de dados (caso use Room)
+*.db
+*.db-journal
+
+# Arquivos de configuração do Firebase (caso use)
+google-services.json
