@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/layout_activity_register.xml.flat",
+        "source": "com.example.studytimer.app-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/layout_activity_login.xml.flat",
+        "source": "com.example.studytimer.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.studytimer.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.example.studytimer.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.studytimer.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.studytimer.app-pngs-31:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.studytimer.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.studytimer.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/layout_activity_timer.xml.flat",
+        "source": "com.example.studytimer.app-main-36:/layout/activity_timer.xml"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.studytimer.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.studytimer.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.studytimer.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.studytimer.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.studytimer.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.studytimer.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/layout_activity_history.xml.flat",
+        "source": "com.example.studytimer.app-main-36:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.studytimer.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.studytimer.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/layout_item_session.xml.flat",
+        "source": "com.example.studytimer.app-main-36:/layout/item_session.xml"
+    },
+    {
+        "merged": "com.example.studytimer.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.studytimer.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

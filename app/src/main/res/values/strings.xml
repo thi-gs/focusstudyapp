@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Study Timer</string>
+    <string name="login">Entrar</string>
+    <string name="register">Registrar</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="session_title">Título da Sessão</string>
+    <string name="start">Iniciar</string>
+    <string name="stop">Parar</string>
+    <string name="history">Histórico</string>
+</resources>
